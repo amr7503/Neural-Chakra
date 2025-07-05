@@ -20,5 +20,7 @@ python run <file_path>
  update model/<model.py> with properly filling txt fields
 ```terminal
 #from neural run
-uv run model_path.py
+uv run frontend.py
+## OR
+python run frontend.py
 ```
